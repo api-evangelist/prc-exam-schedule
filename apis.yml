@@ -1,4 +1,16 @@
 aid: prc-exam-schedule
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/prc-exam-schedule.png
 name: PRC Exam Schedule
 description: "Unofficial Philippine Professional Regulation Commission's examination schedule"
 url: https://api.whenisthenextboardexam.com/docs/
