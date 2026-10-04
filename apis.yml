@@ -39,7 +39,6 @@ apis:
   - name: PRC Exam Schedule
     description: "Unofficial Philippine Professional Regulation Commission's examination schedule"
     humanURL: https://api.whenisthenextboardexam.com/docs/
-    baseURL: https://api.whenisthenextboardexam.com/docs/
     tags:
       - Government
     properties:
